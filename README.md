@@ -1,24 +1,11 @@
-# README
+# Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Toy App
 
-Things you may want to cover:
+From,
 
-* Ruby version
+https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet
 
-* System dependencies
+This is the second application for the Ruby on Rails Tutorial by Michael Hartl.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project uses scaffolding to create a minimalist Twitter-style app.
